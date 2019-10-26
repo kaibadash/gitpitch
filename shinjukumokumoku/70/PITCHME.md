@@ -40,15 +40,21 @@ Auth.currentSession()
 }
 ```
 
+---
+
 ## Authorizationに渡して検証して復号すれば認証はOK
 
 - バックエンドはGraphQL(Applo)
 - GraphQLわからん
 
+---
+
 ## GraphQLのチュートリアルを始める
 
 - GraphQL公式は言語仕様が書かれているだけでチュートリアルみたいなのは実装を見ないといけない
 - Apolloのチュートリアルありがたい https://www.apollographql.com/docs/apollo-server/
+
+---
 
 ## GraphQL完全に理解したこと
 
@@ -56,7 +62,9 @@ Auth.currentSession()
 - バックエンドの実装もいる。リソースの定義をする必要がある
 - 認証はどうやってやるのか
 
+---
+
 ## 実践
 
 - タイムアップ!
-
+- 続きは家で!
