@@ -12,11 +12,15 @@
 
 できた。
 
+---
+
 ## JSON ウェブキーセット (JWKS) の拾得
 
 ```
 https://cognito-idp.{region}.amazonaws.com/{userPoolId}/.well-known/jwks.json
 ```
+
+---
 
 ## JWKS
 
@@ -31,11 +35,15 @@ let jwk: any = {
 };
 ```
 
+---
+
 ## pemに変換して
 
 ```javascript
 var publicPem = jwkToPem(jwk);
 ```
+
+---
 
 ## veriry
 
@@ -45,12 +53,16 @@ jwt.verify(token2, publicPem, { algorithms: ['RS256'] }, function (error, decode
 });
 ```
 
+---
+
 ## 無慈悲なエラー！
 
 ```
 at new Promise (<anonymous>) name: 'JsonWebTokenError', message: 'invalid signature' } undefined
 ```
 https://jwt.io/ だと検証に成功するのに！
+
+---
 
 ## 続きは家で
 
