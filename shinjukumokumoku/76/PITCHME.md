@@ -5,12 +5,9 @@
 ## Instagram風アプリケーションの実装
 
 - 認証 => アカウント登録(by yszk0123)
+  - あとで進捗を聞くけどできたよね!? できたよね!?
 - herokuデプロイ
-- Route53
-- ACM
-- CloudFront
-  - Web
-  - S3
+- AWS周り
 
 ---
 
@@ -36,7 +33,9 @@
 
 ## AWSならなれたもの
 
-- CloudFront作成中
+- Route53
+- ACM
+- CloudFront
 - インフラは待ちが多い
 
 ## ここまでになりそう
