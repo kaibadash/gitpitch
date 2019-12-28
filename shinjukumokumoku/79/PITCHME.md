@@ -23,15 +23,17 @@
 ## yszk0123: API なのになんで CloudFront?
 
 - そういえば… なんでだっけ… 消すか…
+- このときは後々問題になるとは思いもしませんでした
 
 ---
 
-## よくよく考えたら
+## あれ… よくよく考えたら…
 
 1. User => Route53 => CloudFront => S3
 2. User(JS) => API
 
 - なので、API サーバに対して GET / not found なのは当たり前
+- CloudFront は必要だった
 
 ---
 
