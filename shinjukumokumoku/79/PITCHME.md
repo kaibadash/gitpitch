@@ -13,7 +13,7 @@
 
 ---
 
-## NotFound みたいなエラーがでる
+## Cannot GET / みたいなエラーがでる(404)
 
 - User => Route53 => CloudFront => Heroku => Heroku Router => Node
 - Heroku Router が怒ってる
