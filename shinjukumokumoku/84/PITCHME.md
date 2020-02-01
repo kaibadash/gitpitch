@@ -2,26 +2,19 @@
 
 ---
 
-## 予実
-
-- [x] AM~15:00 Elasticsearch のお仕事
-  - 検索できた。あとは sort と limit。
-- Instagram 風 SNS アプリケーション(Andpresent)の開発
-  - アップロードした jpeg が実は png だった問題の修正
-  - WIP: exif をみて rotate する
-
----
-
 ## Elasticsearch のお仕事
 
 - 特に問題なし
 - Elastica、良いライブラリです
+  - Es は基本 json なげて json 受け取るだけなのでシンプルなのが好き
+- \_id の取得に躓いて 15:00 までかかってしまった…
 
 ---
 
 ## Andpresent
 
-- 吉崎さんがだいぶやってくれた
+- 遅くなってごめん :pray:
+- yszk0123 さんがだいぶやってくれた
 
 ---
 
