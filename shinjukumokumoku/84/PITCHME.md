@@ -27,7 +27,7 @@
 
 ## 問題
 
-![](image.png)
+![](https://github.com/kaibadash/gitpitch/blob/master/shinjukumokumoku/84/image.png?raw=true)
 
 ---
 
