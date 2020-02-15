@@ -9,7 +9,7 @@
 
 ---
 
-## Elasticsearch 6お仕事
+## Elasticsearch のお仕事
 
 - テスト完了!
 - バグ
