@@ -20,7 +20,7 @@
 
 ## はまったところ
 
-- contentful-jekyll-data-import で jekyll に contentful を表示する
+- jekyll-contentful-data-import で jekyll に contentful を表示する
 - 関連情報(ex: 本 => 本の著者)をどうする?
 - markdownどう吐く?
 
