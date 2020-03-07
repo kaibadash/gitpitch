@@ -40,6 +40,12 @@
 
 ## [PR]
 
+![](https://pbs.twimg.com/media/ERy0UgEU0AAv1i0?format=jpg&name=medium)
+
+---
+
+## [PR]
+
 - Es 7.6対応!
 - Dockerですぐ終わる環境構築!
 - Twitter @kaiba 
