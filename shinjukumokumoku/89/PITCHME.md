@@ -40,7 +40,7 @@
 
 ## [PR]
 
-![](https://pbs.twimg.com/media/ERy0UgEU0AAv1i0?format=jpg&name=medium)
+<img src="https://pbs.twimg.com/media/ERy0UgEU0AAv1i0?format=jpg&name=medium" width="50%">
 
 ---
 
