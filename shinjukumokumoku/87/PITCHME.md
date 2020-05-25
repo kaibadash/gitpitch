@@ -5,7 +5,11 @@
 ## 予実
 
 - [x] Contentful
+<<<<<<< HEAD
 - [x] Esのお仕事mtg
+=======
+- [x] Es
+>>>>>>> d629eca... Tidy up
 - [ ] Instagram風アプリケーション
   - [ ] Twitter認証
   - [ ] EXIF

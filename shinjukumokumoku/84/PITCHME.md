@@ -2,7 +2,11 @@
 
 ---
 
+<<<<<<< HEAD
 ## Elasticsearch のお仕事
+=======
+## Elasticsearch
+>>>>>>> d629eca... Tidy up
 
 - 特に問題なし
 - Elastica、良いライブラリです

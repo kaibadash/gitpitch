@@ -4,12 +4,20 @@
 
 ## 予実
 
+<<<<<<< HEAD
 - [x] Esのお仕事
+=======
+- [x] Es
+>>>>>>> d629eca... Tidy up
 - [ ] Contentful :tired:
 
 ---
 
+<<<<<<< HEAD
 ## Elasticsearch のお仕事
+=======
+## Elasticsearch
+>>>>>>> d629eca... Tidy up
 
 - テスト完了!
 - バグ
@@ -37,4 +45,8 @@
 
 ---
 
+<<<<<<< HEAD
 ## 終わり: サウナ行こうぜ！
+=======
+## 終わり: サウナ行こうぜ！
+>>>>>>> d629eca... Tidy up

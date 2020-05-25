@@ -8,8 +8,13 @@
   - CloudFront 設定
 - 技術書典の本を書く
   - プログラミングアンチパターン本を書いています
+<<<<<<< HEAD
 - Elasticsearch のお仕事の環境構築
 - contentful のお仕事に挑戦するので contentful tutorial やる
+=======
+- Elasticsearch の環境構築
+- contentful に挑戦するので contentful tutorial やる
+>>>>>>> d629eca... Tidy up
 
 ---
 
