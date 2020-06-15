@@ -1,4 +1,4 @@
-## Elasticsearch 公式フィルタ総ざらい
+## 公式 token/char filters 総ざらい
 
 ---
 
@@ -33,7 +33,7 @@
 
 ![](https://github.com/kaibadash/gitpitch/blob/master/midi2musicxml/discuss.png?raw=true)
 
-実は filter 触ったことなかった。  
+実は filter 触ったことなかった。
 filter のドキュメント漁ったけど、わからなかったので質問させてもらいましたが、結局 filter でできた…
 
 ---
