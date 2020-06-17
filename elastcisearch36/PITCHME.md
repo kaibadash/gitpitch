@@ -1,4 +1,4 @@
-## Elasticsearch 公式フィルタ総ざらい
+## 公式 token/char filters 総ざらい
 
 ---
 
