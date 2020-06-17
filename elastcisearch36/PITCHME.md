@@ -15,26 +15,36 @@
 
 ## https://kaiba.booth.pm/
 
-![](https://github.com/kaibadash/gitpitch/blob/master/gitpitch/era.jpg?raw=true)
+![](https://github.com/kaibadash/gitpitch/blob/master/elastcisearch36/era.jpg?raw=true)
 
 ---
 
-## 今日のお話
+## 今日話すこと
 
 - Elasticsearch token/char filters
-- Query の filter やつじゃないです
+- Query の filter ではないです
 - 数が多いのでよく使いそうなやつを重点的に
 
-![](https://github.com/kaibadash/gitpitch/blob/master/elasticsearch36/filter.png?raw=true)
+![](https://github.com/kaibadash/gitpitch/blob/master/elastcisearch36/filter.png?raw=true)
 
 ---
 
 ## きっかけ
 
-![](https://github.com/kaibadash/gitpitch/blob/master/gitpitch/discuss.png?raw=true)
+---
+
+![](https://github.com/kaibadash/gitpitch/blob/master/elastcisearch36/wakaran.png?raw=true)
+
+---
+
+![](https://github.com/kaibadash/gitpitch/blob/master/elastcisearch36/discuss.png?raw=true)
 
 実は filter に触ったことなかった。  
 filter のドキュメント漁ったけど、わからなかったので質問させてもらいましたが、結局 filter でできた…
+
+---
+
+![](https://github.com/kaibadash/gitpitch/blob/master/elastcisearch36/ebi.png?raw=true)
 
 ---
 
@@ -50,35 +60,58 @@ filter のドキュメント漁ったけど、わからなかったので質問�
 
 ## filter とは？
 
-![](https://github.com/kaibadash/gitpitch/blob/master/gitpitch/filter-coffee-bubble-drip.jpg?raw=true)
+![](https://github.com/kaibadash/gitpitch/blob/master/elastcisearch36/filter-coffee-bubble-drip.jpg?raw=true)
 
 ---
 
 ## 例
 
-![](https://github.com/kaibadash/gitpitch/blob/master/gitpitch/es_filter1.png?raw=true)
+![](https://github.com/kaibadash/gitpitch/blob/master/elastcisearch36/es_filter1.png?raw=true)
 
 ---
 
 ## 例
 
-![](https://github.com/kaibadash/gitpitch/blob/master/gitpitch/es_filter2.png?raw=true)
+![](https://github.com/kaibadash/gitpitch/blob/master/elastcisearch36/es_filter2.png?raw=true)
 
 ---
 
-# 100 近くあるフィルタ、全部調べてみました
+## 100 近くあるフィルタ、全部調べてみました
 
-個人的に重要と思った順にいくつか紹介します。
+![](https://github.com/kaibadash/gitpitch/blob/master/elastcisearch36/es_filter_list.png?raw=true)
 
-![](https://github.com/kaibadash/gitpitch/blob/master/gitpitch/es_filter_list.png?raw=true)
+正直登壇を後悔しました…
 
 ---
 
 ## HTML strip
 
 - HTML を取り除く
-- スクレイピングした結果をそのまま入れるとか良さそう
+- `<em>やばい</em>` を `やばい` にしてくれる
+  - `em` でヒットしてほしくない
+- スクレイピングした結果をそのまま入れるときとか良さそう
 
 ---
 
-## TBD
+## 全部見ていくと日が暮れるので今日は有用なやつをチョイスしてお届けします!
+
+- 全部調べたのでそこは資料を公開します
+
+---
+
+## HTML strip
+
+- HTML を取り除く
+- `<em>やばい</em>` を `やばい` にしてくれる
+  - `em` でヒットしてほしくない
+- スクレイピングした結果をそのまま入れるときとか良さそう
+
+---
+
+## 続きは頑張って書きます！
+
+---
+
+## 多分答えられないけど質問があればどうぞ！
+
+- チャットで全員宛で送ってください
