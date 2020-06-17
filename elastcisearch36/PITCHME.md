@@ -2,6 +2,11 @@
 
 ---
 
+- [第 36 回 Elasticsearch 勉強会 2020.06.18](https://www.meetup.com/ja-JP/Tokyo-Elastic-Fantastics/events/270800745/)
+- [このプレゼン](https://gitpitch.com/kaibadash/gitpitch/master?p=elastcisearch36#/)
+
+---
+
 ## @kaiba
 
 - Rails, iOS
@@ -13,7 +18,7 @@
 
 ---
 
-## https://kaiba.booth.pm/
+## [kaiba.booth.pm](https://kaiba.booth.pm/)
 
 ![](https://github.com/kaibadash/gitpitch/blob/master/elastcisearch36/era.jpg?raw=true)
 
@@ -55,7 +60,7 @@
 ## 感謝の登壇駆動学習！
 
 お付き合いいただきありがとうございます 😊  
-登壇駆動学習で #37 で登壇だ！
+君も登壇駆動学習で #37 で登壇だ！
 
 ---
 
@@ -75,7 +80,8 @@
 
 ![](https://github.com/kaibadash/gitpitch/blob/master/elastcisearch36/es_filter2.png?raw=true)
 
-余計なものを捨てるだけじゃなく「加工する」意味合いです。
+余計なものを捨てるだけじゃなく  
+「加工する」意味合いです。
 
 ---
 
@@ -165,7 +171,7 @@
 
 ---
 
-## Stop
+## ja_stop / Stop
 
 - 指定の Stop word(a とか the などの検索に使用しない token)を取り除く
 - 日本語だと、あの、その、こと、する、いる、てにおは、などが stop words に指定されることが多い
