@@ -33,7 +33,7 @@
 
 ![](https://github.com/kaibadash/gitpitch/blob/master/midi2musicxml/discuss.png?raw=true)
 
-実は filter 触ったことなかった。  
+実は filter に触ったことなかった。  
 filter のドキュメント漁ったけど、わからなかったので質問させてもらいましたが、結局 filter でできた…
 
 ---
@@ -54,4 +54,31 @@ filter のドキュメント漁ったけど、わからなかったので質問�
 
 ---
 
-##
+## 例
+
+![](https://github.com/kaibadash/gitpitch/blob/master/midi2musicxml/es_filter1.png?raw=true)
+
+---
+
+## 例
+
+![](https://github.com/kaibadash/gitpitch/blob/master/midi2musicxml/es_filter2.png?raw=true)
+
+---
+
+# 100 近くあるフィルタ、全部調べてみました
+
+個人的に重要と思った順にいくつか紹介します。
+
+![](https://github.com/kaibadash/gitpitch/blob/master/midi2musicxml/es_filter_list.png?raw=true)
+
+---
+
+## HTML strip
+
+- HTML を取り除く
+- スクレイピングした結果をそのまま入れるとか良さそう
+
+---
+
+## TBD
