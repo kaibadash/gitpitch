@@ -15,7 +15,7 @@
 
 ## https://kaiba.booth.pm/
 
-![](https://github.com/kaibadash/gitpitch/blob/master/midi2musicxml/era.jpg?raw=true)
+![](https://github.com/kaibadash/gitpitch/blob/master/gitpitch/era.jpg?raw=true)
 
 ---
 
@@ -31,7 +31,7 @@
 
 ## きっかけ
 
-![](https://github.com/kaibadash/gitpitch/blob/master/midi2musicxml/discuss.png?raw=true)
+![](https://github.com/kaibadash/gitpitch/blob/master/gitpitch/discuss.png?raw=true)
 
 実は filter に触ったことなかった。  
 filter のドキュメント漁ったけど、わからなかったので質問させてもらいましたが、結局 filter でできた…
@@ -50,19 +50,19 @@ filter のドキュメント漁ったけど、わからなかったので質問�
 
 ## filter とは？
 
-![](https://github.com/kaibadash/gitpitch/blob/master/midi2musicxml/filter-coffee-bubble-drip.jpg?raw=true)
+![](https://github.com/kaibadash/gitpitch/blob/master/gitpitch/filter-coffee-bubble-drip.jpg?raw=true)
 
 ---
 
 ## 例
 
-![](https://github.com/kaibadash/gitpitch/blob/master/midi2musicxml/es_filter1.png?raw=true)
+![](https://github.com/kaibadash/gitpitch/blob/master/gitpitch/es_filter1.png?raw=true)
 
 ---
 
 ## 例
 
-![](https://github.com/kaibadash/gitpitch/blob/master/midi2musicxml/es_filter2.png?raw=true)
+![](https://github.com/kaibadash/gitpitch/blob/master/gitpitch/es_filter2.png?raw=true)
 
 ---
 
@@ -70,7 +70,7 @@ filter のドキュメント漁ったけど、わからなかったので質問�
 
 個人的に重要と思った順にいくつか紹介します。
 
-![](https://github.com/kaibadash/gitpitch/blob/master/midi2musicxml/es_filter_list.png?raw=true)
+![](https://github.com/kaibadash/gitpitch/blob/master/gitpitch/es_filter_list.png?raw=true)
 
 ---
 
