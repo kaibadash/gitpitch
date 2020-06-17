@@ -39,8 +39,7 @@
 
 ![](https://github.com/kaibadash/gitpitch/blob/master/elastcisearch36/discuss.png?raw=true)
 
-実は filter に触ったことなかった。  
-filter のドキュメント漁ったけど、わからなかったので質問させてもらいましたが、結局 filter でできた…
+結局 filter でできた…
 
 ---
 
@@ -48,13 +47,16 @@ filter のドキュメント漁ったけど、わからなかったので質問�
 
 ---
 
-## 全種類 の token/char filters 全員と対話を終えていく!
+## filter 勉強するぞ!
+
+全種類 の token/char filters 全員と対話を終えていく!
 
 ---
 
 ## 感謝の登壇駆動学習！
 
 お付き合いいただきありがとうございます 😊
+登壇駆動学習で #37 で登壇だ！
 
 ---
 
@@ -74,13 +76,19 @@ filter のドキュメント漁ったけど、わからなかったので質問�
 
 ![](https://github.com/kaibadash/gitpitch/blob/master/elastcisearch36/es_filter2.png?raw=true)
 
+余計なものを捨てるだけじゃなく「加工する」意味合いです。
+
 ---
 
-## 100 近くあるフィルタ、全部調べてみました
+## 全部調べてみました(一部の plugin を除く)
 
 ![](https://github.com/kaibadash/gitpitch/blob/master/elastcisearch36/es_filter_list.png?raw=true)
 
 正直登壇を後悔しました…
+
+---
+
+## 有用だと思ったやつをいくつか紹介します!
 
 ---
 
