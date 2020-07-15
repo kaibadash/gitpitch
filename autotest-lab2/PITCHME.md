@@ -25,7 +25,7 @@
 
 ## 経歴
 
-TODO: 経歴を図で。最近は Rails が強いよ。
+![](https://github.com/kaibadash/gitpitch/blob/master/autotest-lab2/career.png?raw=true)
 
 - Java,C#,C,Android,Objective-C,JavaScript,TypeScript,Angular,PHP
   - 必要ならなんでも!
