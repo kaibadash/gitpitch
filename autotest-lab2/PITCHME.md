@@ -174,6 +174,26 @@ JVM はそれぞれ自分で選んで組み合わせる
 
 ---
 
+## HTTP スタブサーバを見つけた!
+
+- https://github.com/2do2go/mocky
+
+```javascript
+var mocky = require("mocky");
+
+mocky
+  .createServer([
+    {
+      url: "/someurl1?a=b&c=d",
+      method: "get",
+      res: "response for GET request",
+    },
+  ])
+  .listen(4321);
+```
+
+---
+
 ## Docker にできるところは Docker
 
 - MySQL
