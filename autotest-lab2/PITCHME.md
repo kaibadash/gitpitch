@@ -27,12 +27,6 @@
 
 ![](https://github.com/kaibadash/gitpitch/blob/master/autotest-lab2/career.png?raw=true)
 
-- Java,C#,C,Android,Objective-C,JavaScript,TypeScript,Angular,PHP
-  - 必要ならなんでも!
-- Rails, Swift
-- PHP
-- Kotlin
-
 ---
 
 ## 今日話すこと
@@ -55,7 +49,7 @@
 
 ---
 
-## Rails は全部入り
+## Rails はいいぞ
 
 - 強力な ORM、Active Record
 - 強力なコードジェネレータ
@@ -81,6 +75,7 @@
 
 ```ruby
 subject { Omikujibashira.omikuji(*args) }
+
 context "with nil" do
   let (:args) { [nil] }
   it { is_expected.to eq nil }
@@ -142,7 +137,13 @@ user = create(:user, status: "banned")
 
 - API の入出力を担保したい
 - フロントの開発を待たずに開発を進めたい
-- 外部サービスをモックしたい
+- 外部サービスをモックして CI の環境として使いたい
+
+---
+
+## こうしたい
+
+![](https://github.com/kaibadash/gitpitch/blob/master/autotest-lab2/system2.png?raw=true)
 
 ---
 
@@ -157,12 +158,6 @@ user = create(:user, status: "banned")
 
 ---
 
-## こうしたい
-
-![](https://github.com/kaibadash/gitpitch/blob/master/autotest-lab2/system2.png?raw=true)
-
----
-
 ## JVM では好きなのを組み合わせて使う
 
 JVM はそれぞれ自分で選んで組み合わせる
@@ -171,6 +166,18 @@ JVM はそれぞれ自分で選んで組み合わせる
 - DBSetup or DBUnit
 - Mockito or PowerMock
 - 今回は好みで前者を選びました
+
+---
+
+## Docker にできるところは Docker
+
+- MySQL
+- S3
+  - Minio
+- 自社サービスはモック… モックはやっぱり辛い。
+  - どこをいつモックするか…
+  - モックにした部分が実行されない…
+  - Mockito と Kotlin の相性もあんまり…
 
 ---
 
@@ -194,18 +201,6 @@ mocky
 
 ---
 
-## Docker にできるところは Docker
-
-- MySQL
-- S3
-  - Minio
-- 自社サービスはモック…
-  - どこをモックするか…
-  - いつモックするか… いつ解除するか…
-  - モックにした部分が実行されない…
-
----
-
 ## 結果
 
 - フロントの開発を待たずに開発ができるようになった
@@ -213,7 +208,7 @@ mocky
 - バグ修正の際に「テスト書いたからもう多分大丈夫」と言える
 - フロントからポチポチせずに開発できるので開発速度は上がった
 - TDD もできるようになった。ちょっとやった。
-- 運気が上がって健康になり、年収も 10 倍になりました
+- 運気が上がって健康になり、宝くじも高額当選しました(嘘)
 
 ---
 
@@ -224,3 +219,9 @@ mocky
   - Docker にないようなサービスをうまく外だしする方法ないかなぁ…
 - 最初のテストは辛いけど、テストを書くと開発速度は上がる
   - 0 と 1 の差は大きい
+
+---
+
+## 俺たちの自動テストはまだ始まったばかりだ！
+
+ありがとうございました
